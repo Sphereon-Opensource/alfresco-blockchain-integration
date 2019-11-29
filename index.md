@@ -1,5 +1,6 @@
 ---
 title: Sphereon Alfresco Blockchain integration
+project-name: Sphereon Alfresco Blockchain integration
 ---
 
 # Alfresco configuration

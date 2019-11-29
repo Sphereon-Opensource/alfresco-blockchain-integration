@@ -26,4 +26,4 @@ project-name: Sphereon Alfresco Blockchain integration
   + Perform action: Apply Aspect, "Blockchain Registration State"
   + Make sure "Run in background" and "Apply to subfolders" are selected
 - To optionally make folders sign documents automatically, add a rule
-  + Rule: New file → Set bc:BlockchainRegistrationState to PENDING_REGISTRATION
+  + Rule: New file → Set `bc:BlockchainRegistrationState` to `PENDING_REGISTRATION`

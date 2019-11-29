@@ -1,8 +1,10 @@
-# Sphereon Alfresco Blockchain integration
+---
+title: Sphereon Alfresco Blockchain integration
+---
 
-## Alfreco configuration
+# Alfresco configuration
 
-### Model & site setup
+## Model & site setup
 
 - Open Alfresco share (http://alfresco.demo/share if Alfresco is available at http://alfresco.demo)
 - Navigate to Admin tools → Model manager

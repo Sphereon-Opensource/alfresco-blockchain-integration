@@ -2,6 +2,16 @@
 title: Sphereon Alfresco Blockchain integration
 ---
 
+The Sphereon Alfresco Blockchain integration enables Alfresco users to register proof-of-existence of files on a blockchain. Because by nature, Blockchains are immutable thus proof-of-existence cannot be tampered with and it is therefore a reliable way to prove that files within Alfresco have existed latest at the date and time of registration.
+
+This page links to the source code and explains the setup of the Sphereon blockchain Aspect in Alfresco.
+
+# Source code
+
+Backend: [Sphereon-Opensource/alfresco-blockchain-agent](https://github.com/Sphereon-Opensource/alfresco-blockchain-agent)
+
+Front-end: Coming soon
+
 # Alfresco configuration
 
 ## Model & site setup
